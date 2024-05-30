@@ -1,5 +1,6 @@
 body{
    background-color: rgb(19, 186, 80);
+   text-align: center;
 }
 
 .fancything {
@@ -16,15 +17,33 @@ body{
     color: palevioletred;
     width: 65%;
     margin: auto;
-    text-align: center;
+}
+
+.guthib {
+    width: 350px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 15px;
 }
 
 .lists {
     font-size: 20px;
 }
 
+.fiasco {
+    width: 350px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 35px;
+    border: 10px solid black;
+    
+}
+
 footer {
     background-color: skyblue;
     opacity: 0.7;
-    text-align: center;
 }
