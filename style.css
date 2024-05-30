@@ -1,5 +1,6 @@
 body{
    background-color: rgb(19, 186, 80);
+   color:magenta;
 }
 
 h1, h2, h3 {
@@ -18,8 +19,8 @@ h1, h2, h3 {
 
 .pain
 {
-    background-image:url("H.jpg");
-    background-size:200px;
+    background-image:url("bg_stars.gif");
+    background-size:100px;
 }
 
 .sadthing {
