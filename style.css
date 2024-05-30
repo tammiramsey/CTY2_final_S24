@@ -1,0 +1,30 @@
+body{
+   background-color: rgb(19, 186, 80);
+}
+
+.fancything {
+    background-color: blueviolet;
+    color:white;
+    width: 75%;
+    text-decoration: underline wavy;
+    font-size: 24px;
+    margin: auto;
+}
+
+.sadthing {
+    background-color: black;
+    color: palevioletred;
+    width: 65%;
+    margin: auto;
+    text-align: center;
+}
+
+.lists {
+    font-size: 20px;
+}
+
+footer {
+    background-color: skyblue;
+    opacity: 0.7;
+    text-align: center;
+}
